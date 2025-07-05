@@ -85,6 +85,6 @@ Visit: [http://localhost:5173](http://localhost:5173)
 **Ketan Kansal**
 
 - 🔗 [GitHub](https://github.com/ketankansal124)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ketankansal124/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ketan-kansal-b338292a7/)
 
 ---
