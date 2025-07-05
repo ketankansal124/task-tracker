@@ -27,11 +27,11 @@ A sleek and responsive task management web app built using **React.js** and **Vi
 
 ## 🖼️ Screenshots
 
-### 🧑‍💻 Login Page (Light Mode)
+### 🧑‍💻 Login Page 
 
 ![Login Light](https://drive.google.com/uc?export=view&id=1OkX8Qk1xUeAKbcyw5HOep4oqzyj9bpE6)
 
-### 📋 Dashboard Page (Dark Mode)
+### 📋 Dashboard Page 
 
 ![Dashboard Dark](https://drive.google.com/uc?export=view&id=1XtnCKLItEvpNvNKHKcpmuzdJAjTkhF3z)
 
